@@ -1,7 +1,7 @@
 <p align="center">
 	<a href="https://caddyserver.com"><img src="https://user-images.githubusercontent.com/15855905/109126058-1eed7e00-774d-11eb-9928-f43e3f5349c1.png" alt="Caddy" width="450"></a>
 	<br>
-	<h3 align="center">a <a href="https://zerossl.com"><img src="https://caddyserver.com/resources/images/zerossl-logo.svg" height="28" valign="middle"></a> project</h3>
+	<h3 align="center">a <a href="https://zerossl.com"><img src="https://hnrk.io/img/svg/zerossl.svg" height="28" valign="middle"></a> project</h3>
 </p>
 <hr>
 <h3 align="center">Every site on HTTPS</h3>
