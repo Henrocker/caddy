@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://caddyserver.com"><img src="https://user-images.githubusercontent.com/1128849/36338535-05fb646a-136f-11e8-987b-e6901e717d5a.png" alt="Caddy" width="450"></a>
+	<a href="https://caddyserver.com"><img src="https://user-images.githubusercontent.com/15855905/109126058-1eed7e00-774d-11eb-9928-f43e3f5349c1.png" alt="Caddy" width="450"></a>
 	<br>
 	<h3 align="center">a <a href="https://zerossl.com"><img src="https://caddyserver.com/resources/images/zerossl-logo.svg" height="28" valign="middle"></a> project</h3>
 </p>
@@ -40,7 +40,7 @@
 <p align="center">
 	<b>Powered by</b>
 	<br>
-	<a href="https://github.com/caddyserver/certmagic"><img src="https://user-images.githubusercontent.com/1128849/49704830-49d37200-fbd5-11e8-8385-767e0cd033c3.png" alt="CertMagic" width="250"></a>
+	<a href="https://github.com/caddyserver/certmagic"><img src="https://user-images.githubusercontent.com/15855905/109126068-214fd800-774d-11eb-8bdc-1eca71c8c921.png" alt="CertMagic" width="250"></a>
 </p>
 
 
